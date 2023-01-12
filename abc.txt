@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
 hope you are doing good
-=======
 Hi Welcome to team
->>>>>>> dev
+
